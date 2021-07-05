@@ -113,7 +113,7 @@ class App extends Component {
         <Row>
           <Col>
             <Pagination
-              activePage={1}
+              activePage={2}
               items={10}
               leftBtn={<Icon>chevron_left</Icon>}
               maxButtons={8}
